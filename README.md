@@ -1,7 +1,7 @@
 Check UDIDs in .ipa file (Perl script)
 ===
 
-A possibility to print out in console all UDID's that are assigned to corresponding .ipa file. Or - provide a UDID and it will also notify if provided UDID is found between printed out UDID's.
+A possibility to print out in console all UDIDs that are assigned to corresponding .ipa file. Or - provide a UDID and it will also notify if provided UDID is found between printed out UDIDs.
 
 
 
